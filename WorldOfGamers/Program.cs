@@ -14,12 +14,12 @@ namespace WorldOfGamers
             };
             RegisteredUser user2 = new RegisteredUser {
             ID =2,
-            NickName="DarkHorizon",
+            NickName="DarkHorizon",     
             Password="12345"
             };
             NewUser user3 = new NewUser {
                 ID=1,
-                NickName="Blakcie",
+                NickName="Blakcie",   
                 Password="12345"
 
             };
