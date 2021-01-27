@@ -8,7 +8,7 @@ namespace WorldOfGamers
         {
             NewUser user1 = new NewUser {
                 ID = 1,
-                NickName = "Mafaldasu",
+                NickName = "Mafaldasu",  
                 Password="12345"
 
             };
